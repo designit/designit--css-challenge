@@ -1,3 +1,21 @@
+# Technologist CSS challenge 
+## Requirements
+
+- Implement the included design using a layout grid with 12 columns and with the following breakpoints:
+    - small: 0 - 575px;
+    - medium: 576 - 991px;
+    - large: 992 - 1440px
+    - max-width: 1440px
+
+- Here is the Figma file: https://www.figma.com/file/Vjc8k3ZxFmj8jTQbKykpOR/CSS-Challenge?node-id=0%3A1
+- You can use this repo as a base, or bake your own.
+- Submit as a git repository, or a pull request against this repo.
+
+<3
+
+
+-- Create React App readme below
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
