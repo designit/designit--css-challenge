@@ -1,9 +1,7 @@
-import React from 'react';
-
-type BodyTextProps = {
+type TextProps = {
   body: string;
 };
 
-export default function BodyText({ body }: BodyTextProps) {
+export default function Text({ body }: TextProps) {
   return <div>{body}</div>;
 }

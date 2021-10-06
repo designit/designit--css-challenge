@@ -12,7 +12,7 @@ export default function Card({ heading, body, image, imageAlt }: CardProps) {
   return (
     <article>
       {/* Setting width temporary so we can see what is going on. */}
-      <img src={image} style={{ maxWidth: '200px' }} />
+      <img src={image} style={{ maxWidth: '200px' }} alt={imageAlt} />
       <Heading heading={heading} size="medium" />
       <Text body={body} />
     </article>

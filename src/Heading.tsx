@@ -1,5 +1,3 @@
-import React from 'react';
-
 type HeadingProps = {
   heading: string;
   size: 'large' | 'medium' | 'small';
