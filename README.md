@@ -1,4 +1,5 @@
-# Technologist CSS challenge 
+# Technologist CSS challenge
+
 ## Requirements
 
 - Implement the included design using a layout grid with 12 columns and with the following breakpoints:
@@ -9,7 +10,7 @@
 
 - Here is the Figma file: https://www.figma.com/file/Vjc8k3ZxFmj8jTQbKykpOR/CSS-Challenge?node-id=0%3A1
 - You can use this repo as a base, or bake your own.
-- Submit as a git repository, or a pull request against this repo.
+- Submit as a git repository, or a pull request against this repo ([fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo), [creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)).
 - Any questions: martin.juliussen@designit.com
 
 <3
