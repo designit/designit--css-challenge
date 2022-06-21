@@ -10,6 +10,7 @@
 
 - Here is the Figma file: https://www.figma.com/file/Vjc8k3ZxFmj8jTQbKykpOR/CSS-Challenge?node-id=0%3A1
 - You can use this repo as a base, or bake your own.
+- Add a `.txt` or `.md`-file with your reflections about the task (keep it brief, we don't want to take up to much of your time!😅, this could be anything, but for example it could be anything you weren't happy about with your implementation, something that was hard, did you get any help (did that help?), ...)
 - Submit as a git repository, or a pull request against this repo ([fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo), [creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)).
 - Any questions: martin.juliussen@designit.com
 
